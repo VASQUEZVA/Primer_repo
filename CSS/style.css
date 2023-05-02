@@ -6,3 +6,12 @@ width: 200px;
 
     background-color: aqua;
 }
+
+/* Pie de página */
+paginas.footer {
+    background-color: #25262e;
+    color: #fff;
+    padding: 10px;
+    text-align: center; /* sentencia para centrar texto*/
+    border-top: 5px solid rgb(255, 230, 0) ; 
+}
